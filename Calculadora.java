@@ -18,6 +18,18 @@ public class Calculadora{
         switch (operacao){
             case '+':
                 resultado = valor1 + valor2;
+                break;
+          case '-':
+              resultado = valor1 - valor2;
+              break;
+          case '*':
+              resultado = valor1 * valor2;
+              break;
+          case '/':
+              resultado = valor1 / valor2;
+              break;
+
+
         }
     }
 }
