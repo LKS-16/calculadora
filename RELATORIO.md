@@ -2,11 +2,14 @@
 
 Este é um projeto de **calculadora simples** desenvolvida para realizar operações matemáticas básicas.
 
-## Funcionalidades
+## Versão 1
 - Adição  
 
-## mundanças versão V2
+## Versão V2
 - adição
 - subtração
 - divisão
 - multiplicação
+
+## Mudanças de versão 
+- Novas funcionalidades adicionadas
