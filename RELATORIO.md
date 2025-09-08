@@ -5,5 +5,5 @@ Este é um projeto de **calculadora simples** desenvolvida para realizar operaç
 ## Funcionalidades
 - Adição  
 - Subtração
-
-## Estrutura do Projeto
+- mutiplicação
+- divisão
