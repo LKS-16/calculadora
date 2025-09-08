@@ -7,11 +7,18 @@ public class Calculadora{
 
         System.out.println("=== Calculadora ===");
         System.out.println("Informe o primeiro valor:");
-        int valor1 = scan.nextInt();
+        Double valor1 = scan.nextDouble();
         System.out.println("Informe o segundo valor:");
-        int valor2 = scan.nextInt();
+        Double valor2 = scan.nextDouble();
 
         System.out.println("Escolha a operação (+, -, *, /):");
         char operacao = scan.next().charAt(0);
+
+        Double resultado;
+
+        switch (operacao){
+            case '+':
+                resultado = valor1 + valor2;
+        }
     }
 }
