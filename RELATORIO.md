@@ -4,6 +4,9 @@ Este é um projeto de **calculadora simples** desenvolvida para realizar operaç
 
 ## Funcionalidades
 - Adição  
-- Subtração
-- mutiplicação
+
+## mundanças versão V1.1
+- adição
+- subtração
 - divisão
+- multiplicação
